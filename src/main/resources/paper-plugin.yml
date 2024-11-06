@@ -1,0 +1,6 @@
+name: DungeonsAndBlocks
+version: '1.0-SNAPSHOT'
+main: de.spacenerd.dungeonsAndBlocks.DungeonsAndBlocks
+api-version: '1.21'
+authors: [ Space_Nerd ]
+description: Dungeons And Dragons like MC Plugin
